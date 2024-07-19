@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "O10XhrO+PC4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\FRANCIS LYDZUSTRE\\FRANCIS_COLLEGE_VAULT\\3rd-Year-Summer\\prof-elec-3\\CurrencyApp\\CurrencyApp\\CurrencyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\restsharp\\111.4.0\\restsharp.111.4.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
